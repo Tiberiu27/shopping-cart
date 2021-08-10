@@ -1,0 +1,28 @@
+{
+  "files": {
+    "main.css": "/shopping-cart/static/css/main.ed8f65ba.chunk.css",
+    "main.js": "/shopping-cart/static/js/main.755cbb12.chunk.js",
+    "main.js.map": "/shopping-cart/static/js/main.755cbb12.chunk.js.map",
+    "runtime-main.js": "/shopping-cart/static/js/runtime-main.b6a2e420.js",
+    "runtime-main.js.map": "/shopping-cart/static/js/runtime-main.b6a2e420.js.map",
+    "static/js/2.f4666eb4.chunk.js": "/shopping-cart/static/js/2.f4666eb4.chunk.js",
+    "static/js/2.f4666eb4.chunk.js.map": "/shopping-cart/static/js/2.f4666eb4.chunk.js.map",
+    "index.html": "/shopping-cart/index.html",
+    "static/css/main.ed8f65ba.chunk.css.map": "/shopping-cart/static/css/main.ed8f65ba.chunk.css.map",
+    "static/js/2.f4666eb4.chunk.js.LICENSE.txt": "/shopping-cart/static/js/2.f4666eb4.chunk.js.LICENSE.txt",
+    "static/media/blackChair.png": "/shopping-cart/static/media/blackChair.06296393.png",
+    "static/media/Homepage.css": "/shopping-cart/static/media/chairs.ca1737ce.jpg",
+    "static/media/oldChair.png": "/shopping-cart/static/media/oldChair.39c4151c.png",
+    "static/media/redChair.png": "/shopping-cart/static/media/redChair.5a396285.png",
+    "static/media/relaxChair.png": "/shopping-cart/static/media/relaxChair.f7524a5c.png",
+    "static/media/royalChair.png": "/shopping-cart/static/media/royalChair.94a0ffb9.png",
+    "static/media/sunChair.png": "/shopping-cart/static/media/sunChair.20e0eef9.png",
+    "static/media/woodChair.png": "/shopping-cart/static/media/woodChair.fd2fe01a.png"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.b6a2e420.js",
+    "static/js/2.f4666eb4.chunk.js",
+    "static/css/main.ed8f65ba.chunk.css",
+    "static/js/main.755cbb12.chunk.js"
+  ]
+}
