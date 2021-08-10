@@ -1,0 +1,17 @@
+#homepage {
+    display: flex;
+    background-image: url('../assets/chairs.jpg');
+    flex-direction: column;
+    height: 900px;
+}
+
+#homepage > #main-title {
+    font-size: 50px;
+    margin-left: 20px;
+}
+
+#homepage > #subtitle {
+    font-size: 30px;
+    font-style: italic;
+    margin-left: 20px;
+}

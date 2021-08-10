@@ -1,0 +1,19 @@
+#shop {
+    display: flex;
+}
+
+#items-container {
+    display: grid;
+    grid-template-columns: repeat(4, 22.75%);
+    gap: 30px;
+    margin-left: 5%;
+}
+
+@media (max-width: 400px) {
+    #items-container {
+        grid-template-columns: repeat(2, 30%);
+        margin: auto;
+    }
+}
+
+

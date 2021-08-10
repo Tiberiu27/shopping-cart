@@ -1,0 +1,24 @@
+#checkout {
+    display: flex;
+    flex-direction: column;
+}
+
+#checkout-items-container {
+    display: grid;
+    justify-content: center;
+
+}
+
+.checkout-item {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+}
+
+#checkout-button-container {
+    position: absolute;
+    right: 40px;
+}
+
+
